@@ -1,0 +1,16 @@
+/developer/project/project/test/bin/Debug/netcoreapp1.1/test.deps.json
+/developer/project/project/test/bin/Debug/netcoreapp1.1/test.runtimeconfig.json
+/developer/project/project/test/bin/Debug/netcoreapp1.1/test.runtimeconfig.dev.json
+/developer/project/project/test/bin/Debug/netcoreapp1.1/test.dll
+/developer/project/project/test/bin/Debug/netcoreapp1.1/test.pdb
+/developer/project/project/test/obj/Debug/netcoreapp1.1/test.AssemblyInfo.cs
+/developer/project/project/test/obj/Debug/netcoreapp1.1/test.dll
+/developer/project/project/test/obj/Debug/netcoreapp1.1/test.pdb
+/developer/project/project/test.projet/bin/Debug/netcoreapp1.1/test.deps.json
+/developer/project/project/test.projet/bin/Debug/netcoreapp1.1/test.runtimeconfig.json
+/developer/project/project/test.projet/bin/Debug/netcoreapp1.1/test.runtimeconfig.dev.json
+/developer/project/project/test.projet/bin/Debug/netcoreapp1.1/test.dll
+/developer/project/project/test.projet/bin/Debug/netcoreapp1.1/test.pdb
+/developer/project/project/test.projet/obj/Debug/netcoreapp1.1/test.AssemblyInfo.cs
+/developer/project/project/test.projet/obj/Debug/netcoreapp1.1/test.dll
+/developer/project/project/test.projet/obj/Debug/netcoreapp1.1/test.pdb
