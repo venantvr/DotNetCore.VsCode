@@ -1,0 +1,4 @@
+/developer/project/project/Neo4jClient.Extension/test/Neo4jClient.Extension.Test.Common/bin/Debug/netcoreapp1.1/Neo4jClient.Extension.Test.Common.deps.json
+/developer/project/project/Neo4jClient.Extension/test/Neo4jClient.Extension.Test.Common/bin/Debug/netcoreapp1.1/Neo4jClient.Extension.Test.Common.runtimeconfig.json
+/developer/project/project/Neo4jClient.Extension/test/Neo4jClient.Extension.Test.Common/bin/Debug/netcoreapp1.1/Neo4jClient.Extension.Test.Common.runtimeconfig.dev.json
+/developer/project/project/Neo4jClient.Extension/test/Neo4jClient.Extension.Test.Common/obj/Debug/netcoreapp1.1/Neo4jClient.Extension.Test.Common.AssemblyInfo.cs

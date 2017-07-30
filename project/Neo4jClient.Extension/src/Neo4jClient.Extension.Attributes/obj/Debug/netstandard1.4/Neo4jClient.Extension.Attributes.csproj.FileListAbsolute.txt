@@ -1,0 +1,12 @@
+/developer/project/project/3rdPartyLibrary/Neo4jClient.Extension.Attributes/bin/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.deps.json
+/developer/project/project/3rdPartyLibrary/Neo4jClient.Extension.Attributes/bin/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.dll
+/developer/project/project/3rdPartyLibrary/Neo4jClient.Extension.Attributes/bin/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.pdb
+/developer/project/project/3rdPartyLibrary/Neo4jClient.Extension.Attributes/obj/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.AssemblyInfo.cs
+/developer/project/project/3rdPartyLibrary/Neo4jClient.Extension.Attributes/obj/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.dll
+/developer/project/project/3rdPartyLibrary/Neo4jClient.Extension.Attributes/obj/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.pdb
+/developer/project/project/Neo4jClient.Extension/src/Neo4jClient.Extension.Attributes/bin/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.deps.json
+/developer/project/project/Neo4jClient.Extension/src/Neo4jClient.Extension.Attributes/bin/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.dll
+/developer/project/project/Neo4jClient.Extension/src/Neo4jClient.Extension.Attributes/bin/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.pdb
+/developer/project/project/Neo4jClient.Extension/src/Neo4jClient.Extension.Attributes/obj/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.AssemblyInfo.cs
+/developer/project/project/Neo4jClient.Extension/src/Neo4jClient.Extension.Attributes/obj/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.dll
+/developer/project/project/Neo4jClient.Extension/src/Neo4jClient.Extension.Attributes/obj/Debug/netstandard1.4/Neo4jClient.Extension.Attributes.pdb

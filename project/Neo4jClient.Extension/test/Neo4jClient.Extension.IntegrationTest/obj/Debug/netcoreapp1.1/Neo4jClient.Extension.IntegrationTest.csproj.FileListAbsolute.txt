@@ -1,0 +1,4 @@
+/developer/project/project/Neo4jClient.Extension/test/Neo4jClient.Extension.IntegrationTest/bin/Debug/netcoreapp1.1/Neo4jClient.Extension.IntegrationTest.deps.json
+/developer/project/project/Neo4jClient.Extension/test/Neo4jClient.Extension.IntegrationTest/bin/Debug/netcoreapp1.1/Neo4jClient.Extension.IntegrationTest.runtimeconfig.json
+/developer/project/project/Neo4jClient.Extension/test/Neo4jClient.Extension.IntegrationTest/bin/Debug/netcoreapp1.1/Neo4jClient.Extension.IntegrationTest.runtimeconfig.dev.json
+/developer/project/project/Neo4jClient.Extension/test/Neo4jClient.Extension.IntegrationTest/obj/Debug/netcoreapp1.1/Neo4jClient.Extension.IntegrationTest.AssemblyInfo.cs
