@@ -1,4 +1,4 @@
-# DotNetCore.VsCode
+# DotNetCore.VsCode.Docker
 
 Starting a full development environment for DotNetCore...
 
